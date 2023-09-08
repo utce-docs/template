@@ -3,7 +3,7 @@ The template repository for each course.
 
 Each course will have a repository of its own. <br>
 In each repository, each semester of the course is represented as a directory. <br>
-Note that the naming should have the following format: `<season><year>` with nothing between the season and year. <br>
+Note that the naming should have the following format: `<Fall/Spring><year>` with nothing between the season and year. <br>
 In each directory, the documentation of each of the projects of the respective semester of the course is provided. <br>
 Below is an example structure of a course repository:
 
