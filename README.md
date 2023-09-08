@@ -8,7 +8,7 @@ In each directory, the documentation of each of the projects of the respective s
 Below is an example structure of a course repository:
 
 ```
-CryptoCurrencies
+Crypto-Currencies
 ├── Fall2022
 │   ├── CA1
 │   └── CA2
