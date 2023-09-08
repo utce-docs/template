@@ -1,4 +1,6 @@
 # template
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 The template repository for each course.
 
 Each course will have a repository of its own. <br>
